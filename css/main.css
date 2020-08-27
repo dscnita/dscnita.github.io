@@ -1,10 +1,10 @@
 
 body {
-    background-color: #95c2de;
+    background-color: #000000;
   }
   
   .mainbox {
-    background-color: #95c2de;
+    background-color: #000000;
     margin: auto;
     height: 600px;
     width: 600px;
@@ -45,6 +45,7 @@ body {
       left: 16%;
       top: 45%;
       width: 75%;
+      color: #ffffff;
     }
   
   a {
@@ -54,4 +55,9 @@ body {
   
   a:hover {
     text-decoration: underline;
+  }
+
+  .this-text
+  {
+    color: rgb(140, 138, 138);
   }

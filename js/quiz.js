@@ -70,8 +70,9 @@
       });
   
       // show number of correct answers out of total
-      resultsContainer.innerHTML = `Let's Inspect again... shall we xD \n navigate to console`;
-      console.log("You made it to the console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n");
+      resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
+
+      console.log("You made it to the HOLY console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n");
       console.log("Total correct: "+numCorrect+"  Not Bad at all!");
       console.log("Here is your private key: " + 10*Math.random());
       console.log("Here is your public key: "+ 10*Math.random());
@@ -83,7 +84,7 @@
       console.log("Sharing any information about how you accessed this page will lead to DISQUALIFICATION from DSC");
       console.log("May the source be with you \n \n Created by: @__winter.soldier__(Instagram)  WinterSoldier13 (GitHub)");
       console.log("By the way there was an easy way to bypass this whole test :p");
-      alert("GREAT! Just keep your eyes open for the changes ");
+      alert("Great Just keep your eyes open for the changes ");
     }
   
     function showSlide(n) {
