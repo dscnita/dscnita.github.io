@@ -66,7 +66,7 @@
     // show number of correct answers out of total
     resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
     resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
-    hint.innerHTML = `If you are <strong><span style="color:red">STUCK</span></strong> at this page for more than 15 mins,
+    hint.innerHTML = `If you are <strong><span style="color:red">STUCK</span></strong> at this page,
       Post a screenshot on Instagram tagging
       <strong><span style="color:blue">@dsc_nit.agt</span></strong> with the message
       <strong><span style="color:green">#DSC_CHALLANGE2</span></strong> to receive a HINT.`;
