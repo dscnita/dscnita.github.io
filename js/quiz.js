@@ -83,7 +83,7 @@
       console.log("Sharing any information about how you accessed this page will lead to DISQUALIFICATION from DSC");
       console.log("May the source be with you \n \n Created by: @__winter.soldier__(Instagram)  WinterSoldier13 (GitHub)");
       console.log("By the way there was an easy way to bypass this whole test :p");
-      alert("GREAT");
+      alert("GREAT! Just keep your eyes open for the changes ");
     }
   
     function showSlide(n) {
