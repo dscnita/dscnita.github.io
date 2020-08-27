@@ -29,7 +29,7 @@ console.log("Be a part of the biggest Student-Developers Community and grow with
 console.log("Maybe you can even win a fully Google sponsored trip to Goa and San Francisco!!!");
 console.log("Moreover you can boast about it on LinkedIn :D");
 console.log("\n");
-console.log("Apply Here: https://bit.ly/3jmE7bp")
+console.log("Apply Here: https://bit.ly/3jmE7b")
 
 console.log("\n\n\n\n\n");
 console.log("And yeah... sorry for this terrible invite");
