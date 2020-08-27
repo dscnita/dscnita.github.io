@@ -3,6 +3,7 @@ name = window.prompt("Oh! visitor from the __future__ what's thy name? :");
 
 
 console.log("Hi! "+name+" Glad you are here\n\n" );
+alert("Hi! "+name+" remember that ERRORs are not real, It's all about the console.")
 
 console.log("                  ,d=≥,.,qOp, ");
 console.log("                 ,7'  ''²$    ");
