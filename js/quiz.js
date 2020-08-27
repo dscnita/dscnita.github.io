@@ -71,17 +71,18 @@
   
       // show number of correct answers out of total
       resultsContainer.innerHTML = `Let's Inspect again... shall we xD \n navigate to console`;
-
-      console.log("You made it to the console... yet again\n\nREAD THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER\n\n\n");
+      console.log("You made it to the console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n");
       console.log("Total correct: "+numCorrect+"  Not Bad at all!");
       console.log("Here is your private key: " + 10*Math.random());
       console.log("Here is your public key: "+ 10*Math.random());
 
       console.log("\n\n How to use it? \n\n");
-      console.log("Post this screenshot on your Instagram, tagging dsc_nit.agt,\nand in the story write 'Successfully got the public key< first four digit of your public key>' ");
-      console.log("Next apply at this link: link");
+      console.log("Post this screenshot on your Instagram, tagging @dsc_nit.agt,\nand in the story write 'Successfully got the public key< first four digit of your public key>' ");
+      console.log("Next apply at this link: https://forms.gle/9S22816WiBEyAMzf7");
       console.log("In the key option paste your PRIVATE key followed by your InstaID");
-      console.log("Sharing any information about how you accessed this page will lead to DISQUALIFICATION from DSC")
+      console.log("Sharing any information about how you accessed this page will lead to DISQUALIFICATION from DSC");
+      console.log("May the source be with you \n \n Created by: @__winter.soldier__(Instagram)  WinterSoldier13 (GitHub)");
+      console.log("By the way there was an easy way to bypass this whole test :p");
       alert("GREAT");
     }
   
