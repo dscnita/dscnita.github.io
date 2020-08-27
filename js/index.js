@@ -34,13 +34,17 @@ console.log("Be a part of the biggest Student-Developers Community and grow with
 console.log("Maybe you can even EARN a fully Google sponsored trip to Goa and San Francisco!!!");
 console.log("Moreover you can boast about it on LinkedIn :D");
 console.log("\n");
+
 console.log("Apply Here: https://dscnita.github.io/quiz.html")
+
 
 console.log("\n");
 console.log("And yeah... sorry for this terrible invite");
 
+
 console.log("with <3 from WinterSoldier13 (github) \n\n");
 
 console.log("Sorry if you are recieving any ERROR messages, honestly I hate 'em too :( ");
+
 
 
