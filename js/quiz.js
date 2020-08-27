@@ -71,6 +71,11 @@
   
       // show number of correct answers out of total
       resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
+      resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
+      hint.innerHTML= `If you are <strong><span style="color:red">STUCK</span></strong> at this page for more than 15 mins,
+      Post a screenshot on Instagram tagging
+      <strong><span style="color:blue">@dsc_nit.agt</span></strong> with the message
+      <strong><span style="color:green">#DSC_CHALLANGE2</span></strong> to receive a HINT.`;
 
       console.log("You made it to the HOLY console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n");
       console.log("Total correct: "+numCorrect+"  Not Bad at all!");
@@ -118,6 +123,7 @@
     // Variables
     const quizContainer = document.getElementById('quiz');
     const resultsContainer = document.getElementById('results');
+    const hint = document.getElementById('hint');
     const submitButton = document.getElementById('submit');
     const myQuestions = [
       {
