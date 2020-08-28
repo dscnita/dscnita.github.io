@@ -64,8 +64,7 @@
     });
 
     // show number of correct answers out of total
-    resultsContainer.innerHTML = `Gehe zur heiligen Konsole`;
-    // resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
+    resultsContainer.innerHTML = `转到控制台`;
     hint.innerHTML = `If you are <strong><span style="color:red">STUCK</span></strong> at this page,
       Post a screenshot on Instagram tagging
       <strong><span style="color:blue">@dsc_nit.agt</span></strong> with the message
