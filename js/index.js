@@ -1,9 +1,8 @@
 var name = "";
-name = window.prompt("Oh! visitor from the __future__ what's thy name? :");
-
+name = window.prompt("Oh! visitor from the __future__ what's thy Enrollment Number? :");
 
 console.log("Hi! "+name+" Glad you are here\n\n" );
-alert("Hi! "+name+" remember that ERRORs are not real, It's all about the console.")
+alert("Hi! "+name+" remember that ERRORs are nothing but a gem to the developer's console. Make SURE that you are on a PC before moving further.")
 
 console.log("                  ,d=≥,.,qOp, ");
 console.log("                 ,7'  ''²$    ");

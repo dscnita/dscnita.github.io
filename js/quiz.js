@@ -64,12 +64,12 @@
     });
 
     // show number of correct answers out of total
-    resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
-    resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
+    resultsContainer.innerHTML = `Gehe zur heiligen Konsole`;
+    // resultsContainer.innerHTML = `GERMANS CALL IT : Gehe zur heiligen Konsole`;
     hint.innerHTML = `If you are <strong><span style="color:red">STUCK</span></strong> at this page,
       Post a screenshot on Instagram tagging
       <strong><span style="color:blue">@dsc_nit.agt</span></strong> with the message
-      <strong><span style="color:green">#DSC_CHALLANGE2</span></strong> to receive a HINT.`;
+      <strong><span style="color:green">#DSC_CHALLANGE2</span></strong> and then DM us to receive a HINT.`;
 
     console.log(
       "You made it to the HOLY console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n"
@@ -80,9 +80,10 @@
 
     console.log("\n\n How to use it? \n\n");
     console.log(
-      "Post this screenshot on your Instagram, tagging @dsc_nit.agt,\nand in the story write 'Successfully got the public key< first four digit of your public key>' "
+      "Post this screenshot on your Instagram, tagging @dsc_nit.agt,\nand in the story write 'Successfully got the public key< first four digit of your public key>' \n"
     );
-    console.log("Next apply at this link: https://forms.gle/9S22816WiBEyAMzf7");
+
+    console.log("Next apply at this link mentioned below\n  ");
     console.log(
       "In the key option paste your PRIVATE key followed by your InstaID"
     );
@@ -93,7 +94,7 @@
       "May the source be with you \n \n Created by: @__winter.soldier__(Instagram)  WinterSoldier13 (GitHub)"
     );
     console.log(
-      "By the way there was an easy way to bypass this whole test :p"
+      "\n\n\nApplication Link:  https://github.com/WinterSoldier13/Daily-DSA/blob/master/DSC_NITA_Challange.ipynb      "
     );
     alert("Great Just keep your eyes open for the changes ");
   }
@@ -133,7 +134,7 @@
     {
       question: "Captain America or Iron Man?",
       answers: {
-        a: "With Cap. till I die",
+        a: "With Cap till I die",
         b: "The dude with the metal thing",
         c: "Shaktiman",
       },
@@ -149,11 +150,51 @@
       correctAnswer: "c",
     },
     {
+      question:
+        "Which of the following data-structure is used to DEEP-CLONE a LinkedList in O(n) space?",
+      answers: {
+        a: "HASHSET",
+        b: "HASHMAP",
+        c: "ARRAY",
+        d: "Directed Graphs",
+      },
+      correctAnswer: "b",
+    },
+    {
+      question:
+        "What is the best case TIME-Compexity of the best-version of Bubble Sort?",
+      answers: {
+        a: "O(n^2)",
+        b: "O(n)",
+        c: "O(nlog(n))",
+        d: "O(log(n))",
+      },
+      correctAnswer: "b",
+    },
+    {
       question: "Is Dijkstra algorithm Greedy",
       answers: {
         a: "Yes, it is greedy",
         b: "Nope",
         c: "What is Dijkstra",
+      },
+      correctAnswer: "a",
+    },
+    {
+      question: "Should Messi Leave Barca' ?",
+      answers: {
+        a: "Nah",
+        b: "Nope",
+        c: "Definetly No! :( ",
+      },
+      correctAnswer: "c",
+    },
+    {
+      question: "Floyd Warshall algorithm is based on?",
+      answers: {
+        a: "Dynamic Programming",
+        b: "Greedy",
+        c: "Backtracking ",
       },
       correctAnswer: "a",
     },
@@ -216,3 +257,5 @@
   previousButton.addEventListener("click", showPreviousSlide);
   nextButton.addEventListener("click", showNextSlide);
 })();
+
+alert("With great power comes great responsibility. Informing anyone about how you landed at this page will result in immediate DISQUALIFICATION of your IP. Don't ruin the fun :) ")
