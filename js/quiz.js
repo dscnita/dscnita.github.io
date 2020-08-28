@@ -257,3 +257,5 @@
   previousButton.addEventListener("click", showPreviousSlide);
   nextButton.addEventListener("click", showNextSlide);
 })();
+
+alert("With great power comes great responsibility. Informing anyone about how you landed at this page will result in immediate DISQUALIFICATION of your IP. Don't ruin the fun :) ")
