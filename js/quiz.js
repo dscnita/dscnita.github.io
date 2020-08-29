@@ -73,8 +73,8 @@
     console.log(
       "You made it to the HOLY console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n"
     );
-    console.log("Total correct: " + numCorrect + "  Not Bad at all!");
-    console.log("Here is your private key: " + 10 * Math.random());
+    console.log("Total correct: " + numCorrect + " ");
+    console.log("Here is your private key: " + numCorrect+""+Math.random());
     console.log("Here is your public key: " + 10 * Math.random());
 
     console.log("\n\n How to use it? \n\n");
@@ -95,7 +95,7 @@
     console.log(
       "\n\n\nApplication Link:  https://github.com/WinterSoldier13/Daily-DSA/blob/master/DSC_NITA_Challange.ipynb      "
     );
-    alert("Great Just keep your eyes open for the changes ");
+    alert("Great Just keep your eyes open for the changes");
   }
 
   function showSlide(n) {
