@@ -45,6 +45,3 @@ console.log("And yeah... sorry for this terrible invite");
 console.log("with <3 from WinterSoldier13 (github) \n\n");
 
 console.log("Sorry if you are recieving any ERROR messages, honestly I hate 'em too :( ");
-
-
-
