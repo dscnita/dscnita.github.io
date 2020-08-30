@@ -2,7 +2,7 @@ var name = "";
 name = window.prompt("Oh! visitor from the __future__ what's thy Enrollment Number? :");
 
 console.log("Hi! "+name+" Glad you are here\n\n" );
-alert("Hi! "+name+" remember that ERRORs are nothing but a gem to the developer's console. Make SURE that you are on a PC before moving further.")
+alert("Hi! "+name+" .Make SURE that you are on a PC before moving further.")
 
 console.log("                  ,d=≥,.,qOp, ");
 console.log("                 ,7'  ''²$    ");
@@ -35,7 +35,7 @@ console.log("Maybe you can even EARN a fully Google sponsored trip to Goa and Sa
 console.log("Moreover you can boast about it on LinkedIn :D");
 console.log("\n");
 
-console.log("Apply Here: https://dscnita.github.io/quiz.html")
+// console.log("Apply Here: https://dscnita.github.io/quiz.html")
 
 
 console.log("\n");
