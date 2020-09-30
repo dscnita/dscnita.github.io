@@ -73,15 +73,7 @@
     console.log(
       "You made it to the HOLY console... yet again\n\n*********READ THE INSTRUCTIONS PROPERLY BEFORE MOVING FURTHER***********\n\n\n"
     );
-    console.log("Total correct: " + numCorrect + " ");
-    console.log("Here is your private key: " + numCorrect+""+Math.random());
-    console.log("Here is your public key: " + 10 * Math.random());
-
-    console.log("\n\n How to use it? \n\n");
-    console.log(
-      "Post this screenshot on your Instagram, tagging @dsc_nit.agt,\nand in the story write 'Successfully got the public key< first four digit of your public key>' \n"
-    );
-
+    console.log("Total correct: " + numCorrect + " "+ " out of 11 questions.");
     console.log("Next apply at this link mentioned below\n  ");
     console.log(
       "In the key option paste your PRIVATE key followed by your InstaID"
@@ -210,7 +202,7 @@
     {
       question: "Which of the following is needed to run Tensorflow on GPU?",
       answers: {
-        a: "Virtual Kernel",
+        a: "VirtualMachine Kernel",
         b: "tensorGPU",
         c: "MultiThreading package manager",
         d: "CUDA and CuDnn",
